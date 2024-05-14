@@ -10,7 +10,7 @@ CUDA（Compute Unified Device Architecture）是由NVIDIA开发的一种通用�
 
 打开Nvidia控制面板，点击左下方系统信息，选择组件，查看cuba版本信息。
 
-![](pic/image(1).png)
+![](pic/image(1))
 
 注意：cuba版本支持向下兼容，一般选择相同版本或略低于当前版本，不能高于。
 
@@ -20,13 +20,13 @@ CUDA（Compute Unified Device Architecture）是由NVIDIA开发的一种通用�
 
 下载需要的cuda版本。
 
-![](pic/image(2).png)
+![](pic/image(2))
 
-![](pic/image(3).png)
+![](pic/image(3))
 
 最后的下载结果示例：
 
-![](pic/image(4).png)
+![](pic/image(4))
 
 ### 三、cuda安装
 
@@ -36,15 +36,15 @@ CUDA（Compute Unified Device Architecture）是由NVIDIA开发的一种通用�
 
 2.等待文件的解压缩。
 
-![](pic/image(6).png)
+![](pic/image(6))
 
 3.勾选继续安装，按照图示即可。
 
-![](pic/image(7).png)
-![](pic/image(8).png)
-![](pic/image(9).png)
-![](pic/image(10).png)
-![](pic/image(11).png)
+![](pic/image(7))
+![](pic/image(8))
+![](pic/image(9))
+![](pic/image(10))
+![](pic/image(11))
 
 4.安装位置默认即可，但要记住这个地址，后续配置环境需要用到。
 
@@ -58,11 +58,11 @@ CUDA（Compute Unified Device Architecture）是由NVIDIA开发的一种通用�
 
 2.选择**高级系统设置**->**环境变量设置**
 
-![](pic/image(13).png)
+![](pic/image(13))
 
 3.在系统变量框中点击新建，依次输入变量名和目录路径，点击确定。
 
-![](pic/image(14).png)
+![](pic/image(14))
 
 
 
